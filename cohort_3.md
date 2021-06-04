@@ -1,5 +1,7 @@
 # Welcome to this place
 
-Name:
-Hobby:
-Favourite Quote:
+Name:OscarMwaura
+
+Hobby:SwimmingWatching
+
+Favourite Quote:Understanding-is-an-art
